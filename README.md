@@ -12,25 +12,25 @@ Current roles: Research Intern @ UNSW Sydney · AI Research Intern @ Rasyn AI (A
 
 Focus: Medical Imaging, Computational Pathology, Document AI, Healthcare AI
 
-Portfolio: [shivanshu-agrawal.github.io](https://shivanshu-agrawal.github.io)
-Email: [shivanshu.iitd2027@gmail.com](mailto:shivanshu.iitd2027@gmail.com)
+Portfolio: [shivanshu-agrawal.github.io](https://shivanshu-agrawal.github.io)  
+Email: [shivanshu.iitd2027@gmail.com](mailto:shivanshu.iitd2027@gmail.com)  
 LinkedIn: [Shivanshu Agrawal](https://www.linkedin.com/in/shivanshu-agrawal-0b47711b6/)
 
 ## Now
 
-- Distilling spatial-transcriptomics models small enough to actually deploy with IIT Delhi research
+- Distilling spatial-transcriptomics models for real-world deployment in IIT Delhi research
 - StrokeSeg-xAI manuscript under review; oral presentation at NBRCOM, AIIMS Jodhpur
 - Research Intern @ UNSW Sydney on AI + thermal imaging for pressure-injury staging
-- Building Vagus Labs: AI clinical scribe for Indian healthcare
+- Building Vagus Labs: an AI clinical scribe for Indian healthcare
 
 ## Research & Engineering Work
 
 - StrokeSeg-xAI — explainable ischemic stroke lesion segmentation on ISLES 2018 CTP maps; hybrid Generalized Dice + Focal Tversky; Grad-CAM saliency and MC-Dropout uncertainty maps.
 - Lightweight H&E → Spatial Gene Expression — reproduced TinyH2GNet on HEST-1k HER2, then built TinyGPQ (~315k params) with cell-wise PCC 0.463 vs 0.435 baseline.
-- UNSW pressure-injury staging — PRISMA-ScR review across 77 screened records; benchmarked Mask R-CNN, CapsNet, and ConvNeXt; found systematic gaps in literature.
-- Rasyn AI healthcare document layout — synthetic-data pipeline with pseudo-labels from PP-DocLayout/DocLayout-YOLO, DocGrammar schema definitions, and XY-Cut difficulty control.
-- Lakshan / Vagus Labs — AI clinical scribe with dialect-aware symptom mapping to SNOMED CT, ABDM/ABHA integration, and FHIR R4 bundles.
-- LLM eval framework — async RAG eval over 1.2K FiQA samples, groundedness 4.68, 8% hallucination rate, regression gates in GitHub Actions.
+- UNSW pressure-injury staging — PRISMA-ScR review across 77 screened records; benchmarked Mask R-CNN, CapsNet, and ConvNeXt; identified systematic gaps in the literature.
+- Rasyn AI healthcare document layout — synthetic-data pipeline with PP-DocLayout / DocLayout-YOLO pseudo-labels, DocGrammar schemas, and XY-Cut difficulty control.
+- Vagus Labs — AI clinical scribe with dialect-aware symptom mapping to SNOMED CT, ABDM/ABHA integration, and FHIR R4 bundles.
+- LLM eval framework — async RAG evaluation over 1.2K FiQA samples, groundedness 4.68, 8% hallucination rate, regression gates in GitHub Actions.
 
 ## Tech Stack
 
