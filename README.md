@@ -92,7 +92,7 @@ Synthetic-data pipeline with pseudo-labels from PP-DocLayout / DocLayout-YOLO an
 </td>
 <td valign="top" width="50%">
 
-**Lakshan**
+**Vagus Labs**
 
 AI clinical scribe with a context layer that maps dialect-level symptoms to **SNOMED CT** (multilingual embeddings, graph-based concept expansion, schema-constrained generation). ABDM/ABHA integration, **FHIR R4** bundles, and a doctor dashboard where one-click corrections feed back into the dialect lexicon.
 
@@ -144,7 +144,7 @@ LegalBERT extractive QA on CUAD (510 contracts, 41 categories).
 
 ![LegalBERT](https://img.shields.io/badge/LegalBERT-6B4C9A?style=flat-square) ![CUAD](https://img.shields.io/badge/CUAD-E07BA8?style=flat-square)
 
-<sub>Code: [repo-link]</sub>
+
 
 </td>
 </tr>
@@ -172,7 +172,7 @@ nRMSE **0.19**
 
 ![LSTM](https://img.shields.io/badge/LSTM-6B4C9A?style=flat-square) ![Random Forest](https://img.shields.io/badge/Random_Forest-6B4C9A?style=flat-square)
 
-<sub>Code: [repo-link]</sub>
+
 
 </td>
 <td valign="top" width="33%">
@@ -186,7 +186,7 @@ AutoDock Vina docking of 1,300 phytochemicals + 11,000 FDA drugs, validated on D
 
 ![AutoDock Vina](https://img.shields.io/badge/AutoDock_Vina-6B4C9A?style=flat-square) ![DUD-E](https://img.shields.io/badge/DUD--E-E07BA8?style=flat-square) ![BindingDB](https://img.shields.io/badge/BindingDB-E07BA8?style=flat-square)
 
-<sub>Code: [repo-link]</sub>
+
 
 </details>
 
