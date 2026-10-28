@@ -43,7 +43,7 @@ Explainable ischemic stroke lesion segmentation on ISLES 2018 CTP maps, built fo
 
 ![ISLES 2018](https://img.shields.io/badge/ISLES_2018-E07BA8?style=flat-square) ![Generalized Dice + Focal Tversky](https://img.shields.io/badge/Generalized_Dice_%2B_Focal_Tversky-6B4C9A?style=flat-square) ![Grad-CAM](https://img.shields.io/badge/Grad--CAM-6B4C9A?style=flat-square) ![MC-Dropout](https://img.shields.io/badge/MC--Dropout-6B4C9A?style=flat-square)
 
-<sub>Prof. Anup Singh · Code: [repo-link]</sub>
+<sub>Prof. Anup Singh · </sub>
 
 </td>
 <td valign="top" width="34%">
@@ -69,7 +69,6 @@ PRISMA-ScR review across 77 screened records, with Mask R-CNN / CapsNet / ConvNe
 
 ![PRISMA-ScR](https://img.shields.io/badge/PRISMA--ScR-E07BA8?style=flat-square) ![Mask R-CNN](https://img.shields.io/badge/Mask_R--CNN-6B4C9A?style=flat-square) ![CapsNet](https://img.shields.io/badge/CapsNet-6B4C9A?style=flat-square) ![ConvNeXt](https://img.shields.io/badge/ConvNeXt-6B4C9A?style=flat-square)
 
-<sub>Code: [repo-link]</sub>
 
 </td>
 </tr>
